@@ -31,8 +31,8 @@ A machine-learning and analytics application that predicts customer churn, categ
 
 ## Let's Connect
 
-<a href="https://www.linkedin.com/in/dhanushree-hp-33239b395/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" alt="LinkedIn"></a>
-<a href="https://github.com/dhanushree-codes"><img src="https://cdn.simpleicons.org/github/181717" width="28" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/dhanushree-hp-33239b395/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/dhanushree-codes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 ---
 
