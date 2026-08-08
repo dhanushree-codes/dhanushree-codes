@@ -13,7 +13,11 @@ I'm a Computer Science (Data Science) student at **RNS Institute of Technology, 
 
 ## Technical Skills
 
-`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `Streamlit` `Data Visualization` `React` `MySQL` `SQLite` `Machine Learning` `Power BI` `Tableau`
+**Programming & Databases:** Python, SQL, MySQL, SQLite
+
+**Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, Machine Learning, Data Visualization
+
+**Tools & Development:** Excel,Power BI, Tableau
 
 ## Featured Projects
 
@@ -27,8 +31,8 @@ A machine-learning and analytics application that predicts customer churn, categ
 
 ## Let's Connect
 
-[LinkedIn: Dhanushree HP](https://www.linkedin.com/in/dhanushree-hp-33239b395/)
-[GitHub: dhanushree-codes](https://github.com/dhanushree-codes)
+<a href="https://www.linkedin.com/in/dhanushree-hp-33239b395/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" alt="LinkedIn"></a>
+<a href="https://github.com/dhanushree-codes"><img src="https://cdn.simpleicons.org/github/181717" width="28" alt="GitHub"></a>
 
 ---
 
