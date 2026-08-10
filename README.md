@@ -7,7 +7,7 @@ I'm a Computer Science (Data Science) student at **RNS Institute of Technology, 
 ## About Me
 
 - 🎓 B.E. CSE (Data Science) | CGPA: **9.01 / 10**
-- 🔭 Currently building **StockBridge AI**, a multilingual WhatsApp wholesale-ordering assistant for kirana shops
+- ✅ Completed **[StockBridge AI](https://github.com/dhanushree-codes/StockBridge-AI)** — an agentic WhatsApp platform for kirana wholesale ordering
 - 🌱 Learning more about machine learning, SQL, data analytics, and backend development
 - 💡 Interested in data science, business intelligence, retention analytics, and applied AI
 
@@ -21,8 +21,8 @@ I'm a Computer Science (Data Science) student at **RNS Institute of Technology, 
 
 ## Featured Projects
 
-### StockBridge AI — Multilingual WhatsApp Wholesale Ordering Agent
-An AI-powered ordering assistant that turns WhatsApp text and voice-note restock requests into safe, inventory-backed wholesale orders. Built with FastAPI, LangGraph, Gemini, Twilio WhatsApp, SQLite, and Streamlit.
+### [StockBridge AI — Agentic WhatsApp Platform for Kirana Wholesale Ordering](https://github.com/dhanushree-codes/StockBridge-AI)
+Completed end-to-end platform that turns WhatsApp text and voice-note restock requests into safe, inventory-backed wholesale orders. Features include multilingual ordering, LangGraph tool use, Gemini voice transcription, order status and history, pickup/delivery workflows, owner summaries, WhatsApp notifications, and a password-protected Streamlit dashboard. Built with Python, FastAPI, LangGraph, Gemini, Twilio WhatsApp API, SQLite, and Streamlit.
 
 ### [Subscription Customer Churn Analysis and Retention Strategies](https://github.com/dhanushree-codes/Subscription-Customer-Churn-Analysis)
 A machine-learning and analytics application that predicts customer churn, categorizes customer risk, and presents retention and revenue-at-risk insights through an interactive dashboard.
