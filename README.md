@@ -1,15 +1,15 @@
 # Hi, I'm Dhanushree HP 👋
 
-### Data Science Undergraduate | Machine Learning & Analytics Enthusiast
+### Data Science Undergraduate | Applied AI, Machine Learning & Analytics
 
-I'm a Computer Science (Data Science) student at **RNS Institute of Technology, Bengaluru**. I enjoy using data, machine learning, and practical software to solve real business problems.
+I am a Computer Science (Data Science) undergraduate at **RNS Institute of Technology, Bengaluru**, focused on building data-driven and AI-powered software for practical business problems. My interests span machine learning, analytics, backend development, and agentic AI systems.
 
 ## About Me
 
 - 🎓 B.E. CSE (Data Science) | CGPA: **9.01 / 10**
-- ✅ Completed **[StockBridge AI](https://github.com/dhanushree-codes/StockBridge-AI)** — an agentic WhatsApp platform for kirana wholesale ordering
-- 🌱 Learning more about machine learning, SQL, data analytics, and backend development
-- 💡 Interested in data science, business intelligence, retention analytics, and applied AI
+- 🎯 Focused on applied machine learning, data analytics, backend development, and agentic AI
+- 📊 Interested in building decision-support tools and intelligent products with measurable business value
+- 🌱 Strengthening expertise in SQL, Python, data visualization, and production-oriented AI workflows
 
 ## Technical Skills
 
@@ -22,7 +22,7 @@ I'm a Computer Science (Data Science) student at **RNS Institute of Technology, 
 ## Featured Projects
 
 ### [StockBridge AI — Agentic WhatsApp Platform for Kirana Wholesale Ordering](https://github.com/dhanushree-codes/StockBridge-AI)
-Completed end-to-end platform that turns WhatsApp text and voice-note restock requests into safe, inventory-backed wholesale orders. Features include multilingual ordering, LangGraph tool use, Gemini voice transcription, order status and history, pickup/delivery workflows, owner summaries, WhatsApp notifications, and a password-protected Streamlit dashboard. Built with Python, FastAPI, LangGraph, Gemini, Twilio WhatsApp API, SQLite, and Streamlit.
+An agentic WhatsApp platform that converts text and voice-note restock requests into safe, inventory-validated wholesale orders for kirana businesses. It combines LangGraph tool use, Gemini transcription, real-time order updates, owner summaries, WhatsApp notifications, and a password-protected operations dashboard. Built with Python, FastAPI, LangGraph, Gemini, Twilio WhatsApp API, SQLite, and Streamlit.
 
 ### [Subscription Customer Churn Analysis and Retention Strategies](https://github.com/dhanushree-codes/Subscription-Customer-Churn-Analysis)
 A machine-learning and analytics application that predicts customer churn, categorizes customer risk, and presents retention and revenue-at-risk insights through an interactive dashboard.
