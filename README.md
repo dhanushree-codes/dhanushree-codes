@@ -2,12 +2,12 @@
 
 ### Data Science Undergraduate | Applied AI, Machine Learning & Analytics
 
-I am a Computer Science (Data Science) undergraduate at **RNS Institute of Technology, Bengaluru**, focused on building data-driven and AI-powered software for practical business problems. My interests span machine learning, analytics, backend development, and agentic AI systems.
+I am a Computer Science (Data Science) undergraduate at **RNS Institute of Technology, Bengaluru**, focused on building data-driven and AI-powered software for practical business problems. My interests span machine learning, analytics, and agentic AI systems.
 
 ## About Me
 
 - 🎓 B.E. CSE (Data Science) | CGPA: **9.01 / 10**
-- 🎯 Focused on applied machine learning, data analytics, backend development, and agentic AI
+- 🎯 Focused on  machine learning, data analytics, retention analytics, business intelligence and agentic AI
 - 📊 Interested in building decision-support tools and intelligent products with measurable business value
 - 🌱 Strengthening expertise in SQL, Python, data visualization, and production-oriented AI workflows
 
