@@ -13,13 +13,13 @@ I enjoy turning data and AI ideas into useful, understandable products. My work 
 
 ## Skills
 
-**Data and analytics**  
+**Data and analytics**
 `Python` `SQL` `Pandas` `NumPy` `Excel` `Power BI` `Tableau`
 
-**Machine learning and AI**  
+**Machine learning and AI**
 `Scikit-learn` `Machine Learning` `LangGraph` `Gemini API`
 
-**Data applications and tools**  
+**Data applications and tools**
 `Streamlit` `FastAPI` `SQLite` `MySQL` `Twilio WhatsApp API` `Git` `GitHub`
 
 ## Project spotlight
