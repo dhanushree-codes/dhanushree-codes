@@ -11,6 +11,17 @@ I enjoy turning data and AI ideas into useful, understandable products. My work 
 | Interests | Machine Learning, Data Analytics, Artificial Intelligence, Data Visualization |
 | Working with | Python, SQL, Pandas, NumPy, Scikit-learn, Power BI |
 
+## Skills
+
+**Data and analytics**  
+`Python` `SQL` `Pandas` `NumPy` `Excel` `Power BI` `Tableau`
+
+**Machine learning and AI**  
+`Scikit-learn` `Machine Learning` `LangGraph` `Gemini API`
+
+**Data applications and tools**  
+`Streamlit` `FastAPI` `SQLite` `MySQL` `Twilio WhatsApp API` `Git` `GitHub`
+
 ## Project spotlight
 
 ### [StockBridge AI](https://github.com/dhanushree-codes/StockBridge-AI)
